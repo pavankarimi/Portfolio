@@ -1,0 +1,18 @@
+
+.social-icons {
+    float:right;
+    padding-right: 8px;
+    display: flex;
+    gap: 15px; /* Space between icons */
+}
+
+.social-icons a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+    color: #ffcc00; /* Changes icon color on hover */
+}
