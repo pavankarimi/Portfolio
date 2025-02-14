@@ -23,7 +23,8 @@ This is my **personal portfolio website**, designed to showcase my **skills, pro
 
 ## 📸 Screenshots  
 
-![Screenshot 2025-02-11 142841](https://github.com/user-attachments/assets/671fe6b5-c209-45a1-8b3f-cf91d6c93187)
+![Screenshot 2025-02-11 142841](https://github.com/user-attachments/assets/0a0a18f3-673d-453a-be27-1aa0db3cc798)
+
 
 ---
 
