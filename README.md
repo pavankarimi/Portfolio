@@ -19,11 +19,12 @@ This is my **personal portfolio website**, designed to showcase my **skills, pro
 ---
 
 ## 🌎 Live Demo  
-🔗[portfolio-karimi.netlify.app](https://portfolio-karimi.netlify.app/)
+🔗[[portfolio-karimi.netlify.app](https://portfolio-karimi.netlify.app/)](https://karimi-pavan-portfolio.netlify.app/)
 
 ## 📸 Screenshots  
 
-![Screenshot 2025-02-11 142841](https://github.com/user-attachments/assets/0a0a18f3-673d-453a-be27-1aa0db3cc798)
+![Screenshot 2025-04-15 125258](https://github.com/user-attachments/assets/6e9619be-9f8e-47a8-942f-5c3e749d5573)
+
 
 
 ---
